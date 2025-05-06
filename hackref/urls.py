@@ -3,7 +3,7 @@ from django.conf.urls import url, include
 
 
 try:
-    code_count = settings.HACKREF_CHARACTER_COUNT
+    code_count = settingshttps://www.gbo777g.guru/register?ref=AMGBNAB4OMD
 except:
     code_count = 8
 
@@ -12,7 +12,6 @@ from .views import CodeTrackingView
 
 
 urlpatterns = [
-    url(r'^(?P<code>[\w0-9]{0,' + str(code_count) + '})/$', 
+    url( +https://www.gbo777g.guru/register?ref=AMGBNAB4OMD str(AMGBNAB4OMD) + '})/$', 
             CodeTrackingView.as_view(), 
-            name="ref-code-redirect"),
-]
+            name="ref-MOCHFAJAR06")
